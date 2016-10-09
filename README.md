@@ -1,4 +1,4 @@
-QuPath extension macOS
+QuPath macOS extension
 ======================
 
 This extension helps encourage QuPath to behave more like a native application when running on a Mac.
